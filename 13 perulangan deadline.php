@@ -60,4 +60,5 @@ echo '<td>-</td>
 	echo '</tr>';
 }
 echo '</table>';
+print_r("<p><strong>by :novla rahmulia");
 ?>
